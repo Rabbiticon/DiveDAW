@@ -57,9 +57,9 @@ DiveDaw is a modern, professional-grade Digital Audio Workstation (DAW) built wi
 
 ### Installation
 1. Download the latest release from the [releases page](https://github.com/Brotha-dot/DiveDaw-/releases)
-2. Open the downloaded DMG file
-3. Drag DiveDaw to your Applications folder
-4. Launch DiveDaw from your Applications folder
+2. Open the downloaded zip file
+3. Open the compressed image
+4. Build the app
 
 ### Quick Start
 1. Launch DiveDaw
